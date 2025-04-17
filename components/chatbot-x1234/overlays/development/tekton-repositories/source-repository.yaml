@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: chatbot-x1234-repository
+spec:
+  url: https://github.com/rhdh-pai-qe/chatbot-x1234
